@@ -1,4 +1,4 @@
-# Creating Weekly Timetable Using the Table Element
+# Created Weekly Timetable Using the Table Element
 Name: Jaya Patel
 
 **Repository Description:**
