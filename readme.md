@@ -23,3 +23,5 @@ Displays a neatly formatted timetable
 Organizes study subjects and timings clearly
 
 Changes the page on click using a JS event listener
+
+[Deployed link](https://jaya030888.github.io/my-weekly-schedule/)
